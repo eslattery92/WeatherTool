@@ -81,28 +81,6 @@ def connecting_pg_arc():
 
 # Then I changed the symbology and labeling of the map through the GUI
 
-    arcpy.RefreshActiveView()
-
 
 create_table()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

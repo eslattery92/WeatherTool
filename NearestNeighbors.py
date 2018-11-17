@@ -34,6 +34,3 @@ def delete_close():
 
 
 find_close()
-
-
-
