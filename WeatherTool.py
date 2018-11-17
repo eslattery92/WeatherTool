@@ -12,7 +12,7 @@ import json
 import time
 arcpy.env.overwriteOutput = True
 
-conn = psycopg2.connect("dbname='Weather' user='postgres' host='localhost' password='swimming12'")
+conn = psycopg2.connect("dbname='Weather' user='postgres' host='localhost' password='RETRACTED'")
 cur = conn.cursor()
 
 
